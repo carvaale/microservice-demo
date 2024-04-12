@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NWZ92+geyykoGWWoMxXsDahokWL5K9b4OHfr4JD8YtA=",
+  "Source": "search-svc",
+  "BasePath": "_content/search-svc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

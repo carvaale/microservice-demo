@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rNO09NXf7Pa/TbvtLVrN12tTCqimTnHAmLTQHIJKrWE=",
+  "Source": "catalog-svc",
+  "BasePath": "_content/catalog-svc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
